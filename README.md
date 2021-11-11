@@ -15,6 +15,10 @@
 
 [Slides](https://github.com/SaranjeetKaur/LatinR2021_Slides_Invited_Talk) - [Video](https://youtu.be/VzPia_PAxvw) with subtitles inj English and Spanish
 
+### Charla de Sponsor
+
+[Video AppSilon](https://youtu.be/zl5hR0SsBto)
+
 ## Contribuciones
 
 ## Tutoriales
