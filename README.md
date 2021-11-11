@@ -2,7 +2,6 @@
 
 1. [Charlas invitadas](#Charlas)
 2. [Contribuciones](#Contribuciones)
-3. [ReproHack](#ReproHack)
 4. [Tutoriales](#Tutoriales)
 
 ## Charlas
@@ -14,4 +13,8 @@
 
 ### R Development Guide: Motivation, First Draft, and the Way Forward by Saranjeet Kaur 
 
-[Slides](https://github.com/SaranjeetKaur/LatinR2021_Slides_Invited_Talk) - [Video]()
+[Slides](https://github.com/SaranjeetKaur/LatinR2021_Slides_Invited_Talk) - [Video](https://youtu.be/VzPia_PAxvw) with subtitles inj English and Spanish
+
+## Contribuciones
+
+## Tutoriales
