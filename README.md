@@ -20,7 +20,7 @@
 <img src='charla_invitada.png' align="right" height="130" />
 
 * [Slides](https://github.com/SaranjeetKaur/LatinR2021_Slides_Invited_Talk)
-* [Video](https://youtu.be/VzPia_PAxvw) with subtitles inj English and Spanish
+* [Video](https://youtu.be/VzPia_PAxvw) with subtitles in English and Spanish, con subtítulos en Inglés y en español.
 
 ### Charla de Sponsor
 
