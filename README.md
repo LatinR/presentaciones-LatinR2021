@@ -54,7 +54,7 @@ La Dra. María Cristina Ramos, es socióloga y científica de redes. Utiliza la 
 Una visita guiada por ~10 paquetes que añaden nuevas capas (geoms), colores, o funcionalidades a ggplot2. Demostración de funciones que nos permitirán elaborar figuras más eficientes y llamativas.
 
 * [Material]()
-* [Video]()
+* [Video](https://youtu.be/R0Sj0qz3o4g)
 
 
 
