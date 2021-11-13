@@ -8,7 +8,7 @@
 
 ### Beautiful Tables in R by Tom Mock
 
-<img src='Tables-LatinR.jpg' align="right" height="130" />
+<img src='Tables-LatinR.jpg' align="right" width = "200" />
 
 * [Slides](https://jthomasmock.github.io/tables-latinr)
 * [Code](https://t.co/GrZUrZdZtE?amp=1)
@@ -17,14 +17,12 @@
 
 ### R Development Guide: Motivation, First Draft, and the Way Forward by Saranjeet Kaur 
 
-<img src='charla_invitada.png' align="right" height="130" />
+<img src='charla_invitada.png' align="right" width = "200" />
 
 * [Slides](https://github.com/SaranjeetKaur/LatinR2021_Slides_Invited_Talk)
-* [Video](https://youtu.be/VzPia_PAxvw) with subtitles in English and Spanish, con subtítulos en Inglés y en español.
+* [Video](https://youtu.be/VzPia_PAxvw) 
 
-### Charla de Sponsor
-
-[Video AppSilon](https://youtu.be/zl5hR0SsBto)
+_with subtitles in English and Spanish, con subtítulos en Inglés y en español_
 
 ## Contribuciones
 ### Desarrollo de paquetes
@@ -108,9 +106,15 @@
 * Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf]() - [video]() - [sesion en vivo]()
 * Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - - [pdf]() - [video]() - [sesion en vivo]()
 
+### Charla de Sponsor
+
+* Desarrollo comercial de aplicaciones en Shiny (AppSilon) - [video](https://youtu.be/zl5hR0SsBto)
+
 ## Tutoriales  
 
-### Desarrollo de Aplicaciones de Shiny a nivel comercial <img src='desarrollo_de_aplicaciones_de_shiny_a_nivel_comercial.png' align="right" height="130" />
+### Desarrollo de Aplicaciones de Shiny a nivel comercial 
+
+<img src='desarrollo_de_aplicaciones_de_shiny_a_nivel_comercial.png' align="right" width = "250" />
 
 Nuestro sponsor AppSilon presenta este tutorial para iniciarse en el desarrollo de Aplicaciones de Shiny a nivel comercial  
 
@@ -125,7 +129,9 @@ Nuestro sponsor AppSilon presenta este tutorial para iniciarse en el desarrollo 
 
 
 
-### "Introducción al análisis de redes con R" <img src='tutorial-maria.jpg' align="right" height="130" />
+### "Introducción al análisis de redes con R" 
+
+<img src='tutorial-maria.jpg' align="right" width = "250" />
 
 La Dra. María Cristina Ramos, es socióloga y científica de redes. Utiliza la ciencia de las redes para estudiar una amplia gama de temas, incluidas las redes de colaboración, los sistemas socioecológicos, el análisis de textos, los contactos personales y la salud, y los modelos mentales de creencias. Ella es consultora independiente e instructora de RStudio Certificada. Puedes seguirla en Twitter, @mariacramosf, o por su página web: https://mariacramos.com/
 
@@ -134,7 +140,9 @@ La Dra. María Cristina Ramos, es socióloga y científica de redes. Utiliza la 
 
 
 
-### "gg+: paquetes para extender las capacidades de ggplot2" <img src='LAtinR.jpg' align="right" height="130" />
+### "gg+: paquetes para extender las capacidades de ggplot2" 
+
+<img src='LAtinR.jpg' align="right" width = "250" />
 
 Una visita guiada por ~10 paquetes que añaden nuevas capas (geoms), colores, o funcionalidades a ggplot2. Demostración de funciones que nos permitirán elaborar figuras más eficientes y llamativas.
 
@@ -143,7 +151,9 @@ Una visita guiada por ~10 paquetes que añaden nuevas capas (geoms), colores, o 
 
 
 
-### "Modelos de equações estruturais (Structural Equation Models; SEM) in R" <img src='tutorialSEMNOR.jpg' align="right" height="130" />
+### "Modelos de equações estruturais (Structural Equation Models; SEM) in R" 
+
+<img src='tutorialSEMNOR.jpg' align="right" width = "250" />
 
 Modelos de equações estruturais são um conjunto de técnicas usados para representar hipóteses acerca de um estudo/conjunto de dados em termos de parâmetros estruturais e com base num embasamento teórico. Estas técnicas são bastante usadas em Ciências Sociais e Biológicas ou em Psicologia, a exemplo por meio de "path analysis" (análise de caminhos), "mediation analysis" (análise de mediação) ou "latent variable analysis" (análise de variáveis latentes). Neste tutorial, será feita uma breve introdução no tópico, junto a exemplos de estudos prévios. Logo, o participante terá a oportunidade de aprender na prática como produzir e interpretar tais models em R, com diferentes exercícios. Participantes podem trazer seus próprios dados e compartilhar suas próprias experiências. 
 
