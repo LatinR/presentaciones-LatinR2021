@@ -64,6 +64,32 @@
 * Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad
 * Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar
 
+### Investigación y comunicación de resultados
+
+* Tablas reproducibles, presentables y con formato numérico local con gtsummary
+* Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos
+* Un viaje a la ecología del movimiento a través de la minería de texto
+
+### Datos espaciales
+
+* Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información?
+* Un cuento digital desde R: cómo crear un relato situado con Leaflet
+
+### Periodismo de datos, datos abiertos y visualización
+
+* JFemDados: democratizando informação
+* A Base dos Dados+: acesso fácil a dados públicos de qualidade
+* Alavancando o poder do RMarkdown com as linguagens da Web e D3.js para produzir histórias de dados envolventes sobre finanças públicas
+* Collect and use open access World Bank data to know your country
+
+### R en producción, computación y flujos de trabajo
+
+* R en producción: aprendizajes, retos y mejores prácticas
+* Analogsea: using R for big data analytics
+* IBM Cloud Functions com R
+* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo
+* Uso de R como front-end en un datawarehouse de gestión académica universitaria
+
 
 
 ## Tutoriales  
