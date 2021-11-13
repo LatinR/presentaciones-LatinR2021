@@ -72,8 +72,8 @@
 
 ### Datos espaciales
 
-* Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información? - - [pdf]() - [video]() - [sesion en vivo]()
-* Un cuento digital desde R: cómo crear un relato situado con Leaflet - - [pdf]() - [video]() - [sesion en vivo]()
+* Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información? - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
+* Un cuento digital desde R: cómo crear un relato situado con Leaflet - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
 
 ### Periodismo de datos, datos abiertos y visualización
 
