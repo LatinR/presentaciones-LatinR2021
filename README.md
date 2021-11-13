@@ -75,10 +75,10 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### Periodismo de datos, datos abiertos y visualización
 
-* JFemDados: democratizando informação - - [pdf]() - [video]() - [sesion en vivo]()
-* A Base dos Dados+: acesso fácil a dados públicos de qualidade - - [pdf]() - [video]() - [sesion en vivo]()
-* Alavancando o poder do RMarkdown com as linguagens da Web e D3.js para produzir histórias de dados envolventes sobre finanças públicas - - [pdf]() - [video]() - [sesion en vivo]()
-* Collect and use open access World Bank data to know your country - - [pdf]() - [video]() - [sesion en vivo]()
+* JFemDados: democratizando informação - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A?t=6853)
+* A Base dos Dados+: acesso fácil a dados públicos de qualidade - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A?t=6853)
+* Alavancando o poder do RMarkdown com as linguagens da Web e D3.js para produzir histórias de dados envolventes sobre finanças públicas - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A?t=6853)
+* Collect and use open access World Bank data to know your country - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A?t=6853)
 
 ### R en producción, computación y flujos de trabajo
 
