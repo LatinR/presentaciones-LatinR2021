@@ -45,6 +45,27 @@
 * Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional
 * Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny
 
+### Aplicaciones en salud pública
+
+* Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma
+* Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos
+* ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos?
+* Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18
+
+### Enseñanza de R
+
+* Scaling feedback using learnr and gradethis in a introductory R course
+* Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios
+* Karel la robot enseña R: un paquete para la enseñanza de programación
+* Un conjunto de paquetes para generar tutoriales interactivos para enseñar R
+
+### Comunidad de R
+
+* Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad
+* Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar
+
+
+
 ## Tutoriales  
 
 ### Desarrollo de Aplicaciones de Shiny a nivel comercial <img src='desarrollo_de_aplicaciones_de_shiny_a_nivel_comercial.png' align="right" height="130" />
