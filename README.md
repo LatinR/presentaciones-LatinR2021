@@ -90,7 +90,23 @@
 * Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo
 * Uso de R como front-end en un datawarehouse de gestión académica universitaria
 
+### Desarrollo de paquetes y modelos
 
+* missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes
+* QR: un paquete para la factorización QR sin rotación
+* Estimación de un modelo computacional mediante computación Bayesiana Aproximada
+* Feature and variable selection in complex data classification
+* Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo
+* Como implementar algunos modelos de imputación múltiple para datos de panel
+* Años potenciales de vida perdidos por siniestros de tránsito en Uruguay
+
+### Desarrollo de paquetes y aplicaciones en ciencia
+
+* agromet: un paquete para el análisis de datos meteorológicos
+* Rocc: gestão e análise de dados de ocorrências de espécies
+* Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia
+* Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos
+* Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales
 
 ## Tutoriales  
 
