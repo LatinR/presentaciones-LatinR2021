@@ -27,6 +27,23 @@
 [Video AppSilon](https://youtu.be/zl5hR0SsBto)
 
 ## Contribuciones
+### Desarrollo de paquetes
+
+* Divide y vencerás: de polAr al 'polArverse'
+* Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares
+* The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot
+* speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay
+
+### Paquetes, modelos y aplicaciones en ciencias
+
+* AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya
+* Análisis de la Red de Investigadores del IESTA
+* Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales
+* Elaboración de redes analíticas interactivas con el paquete netCoin de R
+* Retos y R en conteos rápidos electorales
+* Análisis del tipo de consumo cultural según nivel socioeconómico de los beneficiarios del programa Pase Cultural
+* Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional
+* Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny
 
 ## Tutoriales  
 
