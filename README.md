@@ -70,8 +70,8 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### Datos espaciales
 
-* Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información? - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
-* Un cuento digital desde R: cómo crear un relato situado con Leaflet - - [pdf]() - [video]() - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
+* Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información? - - [pdf]() - [video](https://youtu.be/8qltR0p_Czg) - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
+* Un cuento digital desde R: cómo crear un relato situado con Leaflet - - [pdf]() - [video](https://youtu.be/QM0WwPdjK2w) - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
 
 ### Periodismo de datos, datos abiertos y visualización
 
