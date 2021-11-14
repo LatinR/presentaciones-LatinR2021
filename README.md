@@ -59,14 +59,14 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### Comunidad de R
 
-* Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad - - [pdf]() - [video]() - [sesion en vivo]()
-* Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar - - [pdf]() - [video]() - [sesion en vivo]()
+* Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad - - [pdf]() - [video](https://youtu.be/O31-2LHZDoM) - [sesion en vivo]()
+* Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar - - [pdf]() - [video](https://youtu.be/MN2R0GxWJeE) - [sesion en vivo]()
 
 ### Investigación y comunicación de resultados
 
-* Tablas reproducibles, presentables y con formato numérico local con gtsummary - - [pdf]() - [video]() - [sesion en vivo]()
-* Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos - - [pdf]() - [video]() - [sesion en vivo]()
-* Un viaje a la ecología del movimiento a través de la minería de texto - - [pdf]() - [video]() - [sesion en vivo]()
+* Tablas reproducibles, presentables y con formato numérico local con gtsummary - - [pdf]() - [video](https://youtu.be/6QTrzd2Wxrs) - [sesion en vivo]()
+* Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos - - [pdf]() - [video](https://youtu.be/tLDix5tBPHE) - [sesion en vivo]()
+* Un viaje a la ecología del movimiento a través de la minería de texto - - [pdf]() - [video](https://youtu.be/nUlmL2eEUII) - [sesion en vivo]()
 
 ### Datos espaciales
 
