@@ -135,7 +135,10 @@ Nuestro sponsor AppSilon presenta este tutorial para iniciarse en el desarrollo 
 
 La Dra. María Cristina Ramos, es socióloga y científica de redes. Utiliza la ciencia de las redes para estudiar una amplia gama de temas, incluidas las redes de colaboración, los sistemas socioecológicos, el análisis de textos, los contactos personales y la salud, y los modelos mentales de creencias. Ella es consultora independiente e instructora de RStudio Certificada. Puedes seguirla en Twitter, @mariacramosf, o por su página web: https://mariacramos.com/
 
-* [Material]()
+* [Slides](https://mcramosf.github.io/intro_nets_LatinR_slides/Intro_Nets_slides.html#1)
+* [Archivos RMarkdown](https://github.com/mcramosf/intro_sna_LatinR)
+* [Hoja de repaso de visualización](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)
+* [Evaluación](https://duke.qualtrics.com/jfe/form/SV_6hht2z2C0a93hvo)
 * [Video](https://youtu.be/rMozkn_Dvps)
 
 
