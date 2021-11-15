@@ -45,17 +45,17 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### Aplicaciones en salud pública
 
-* Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - - [pdf]() - [video]() - [sesion en vivo]()
-* Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf]() - [video]() - [sesion en vivo]()
-* ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - - [pdf]() - [video]() - [sesion en vivo]()
-* Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - - [pdf]() - [video]() - [sesion en vivo]()
+* Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - - [pdf]() - [video](https://youtu.be/apiu01iYeL4) - [sesion en vivo]()
+* Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf]() - [video](https://youtu.be/y6kcXVoFZ1k) - [sesion en vivo]()
+* ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - - [pdf]() - [video](https://youtu.be/y77nz9XBlXc) - [sesion en vivo]()
+* Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - - [pdf]() - [video](https://youtu.be/EDwLrPcxUFY) - [sesion en vivo]()
 
 ### Enseñanza de R
 
-* Scaling feedback using learnr and gradethis in a introductory R course - - [pdf]() - [video]() - [sesion en vivo]()
-* Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - - [pdf]() - [video]() - [sesion en vivo]()
-* Karel la robot enseña R: un paquete para la enseñanza de programación - - [pdf]() - [video]() - [sesion en vivo]()
-* Un conjunto de paquetes para generar tutoriales interactivos para enseñar R - - [pdf]() - [video]() - [sesion en vivo]()
+* Scaling feedback using learnr and gradethis in a introductory R course - - [pdf]() - [video](https://youtu.be/7v7XPtizdzU) - [sesion en vivo]()
+* Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - - [pdf]() - [video](https://youtu.be/G2Hwe7XcT_4) - [sesion en vivo]()
+* Karel la robot enseña R: un paquete para la enseñanza de programación - - [pdf]() - [video](https://youtu.be/sZze6Nl3bg8) - [sesion en vivo]()
+* Un conjunto de paquetes para generar tutoriales interactivos para enseñar R - - [pdf]() - [video](https://youtu.be/omU0uiuu1vE) - [sesion en vivo]()
 
 ### Comunidad de R
 
