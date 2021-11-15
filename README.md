@@ -82,29 +82,29 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### R en producción, computación y flujos de trabajo
 
-* R en producción: aprendizajes, retos y mejores prácticas - - [pdf]() - [video]() - [sesion en vivo]()
-* Analogsea: using R for big data analytics - - [pdf]() - [video]() - [sesion en vivo]()
-* IBM Cloud Functions com R - - [pdf]() - [video]() - [sesion en vivo]()
-* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - - [pdf]() - [video]() - [sesion en vivo]()
-* Uso de R como front-end en un datawarehouse de gestión académica universitaria - - [pdf]() - [video]() - [sesion en vivo]()
+* R en producción: aprendizajes, retos y mejores prácticas - - [pdf]() - [video](https://youtu.be/OLDgTVa2vrw) - [sesion en vivo]()
+* Analogsea: using R for big data analytics - - [pdf]() - [video](https://youtu.be/ZBOaPuhVzqg) - [sesion en vivo]()
+* IBM Cloud Functions com R - - [pdf]() - [video](https://youtu.be/eIww0bf4b9g) - [sesion en vivo]()
+* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - - [pdf]() - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo]()
+* Uso de R como front-end en un datawarehouse de gestión académica universitaria - - [pdf]() - [video](https://youtu.be/GSBQbZk_Zrw) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y modelos
 
-* missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - - [pdf]() - [video]() - [sesion en vivo]()
-* QR: un paquete para la factorización QR sin rotación - - [pdf]() - [video]() - [sesion en vivo]()
-* Estimación de un modelo computacional mediante computación Bayesiana Aproximada - - [pdf]() - [video]() - [sesion en vivo]()
-* Feature and variable selection in complex data classification - - [pdf]() - [video]() - [sesion en vivo]()
-* Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo - - [pdf]() - [video]() - [sesion en vivo]()
-* Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf]() - [video]() - [sesion en vivo]()
-* Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - - [pdf]() - [video]() - [sesion en vivo]()
+* missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - - [pdf]() - [video](https://youtu.be/C3lhkGkarp0) - [sesion en vivo]()
+* QR: un paquete para la factorización QR sin rotación - - [pdf]() - [video](https://youtu.be/l4JpN9UyA0Y) - [sesion en vivo]()
+* Estimación de un modelo computacional mediante computación Bayesiana Aproximada - - [pdf]() - [video](https://youtu.be/fFXMNv5Gg-k) - [sesion en vivo]()
+* Feature and variable selection in complex data classification - - [pdf]() - [video](https://youtu.be/qSQoUrYDLbE) - [sesion en vivo]()
+* Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo - - [pdf]() - [video](https://youtu.be/CCUSaaI6ZJw) - [sesion en vivo]()
+* Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf]() - [video](https://youtu.be/iUKOp65SVCw) - [sesion en vivo]()
+* Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - - [pdf]() - [video](https://youtu.be/_7K6oIl-7Io) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y aplicaciones en ciencia
 
-* agromet: un paquete para el análisis de datos meteorológicos - - [pdf]() - [video]() - [sesion en vivo]()
-* Rocc: gestão e análise de dados de ocorrências de espécies - - [pdf]() - [video]() - [sesion en vivo]()
-* Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia - - [pdf]() - [video]() - [sesion en vivo]()
-* Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf]() - [video]() - [sesion en vivo]()
-* Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - - [pdf]() - [video]() - [sesion en vivo]()
+* agromet: un paquete para el análisis de datos meteorológicos - - [pdf]() - [video](https://youtu.be/M8ALCz62B4U) - [sesion en vivo]()
+* Rocc: gestão e análise de dados de ocorrências de espécies - - [pdf]() - [video](https://youtu.be/y2Y15ri78Mk) - [sesion en vivo]()
+* Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia - - [pdf]() - [video](https://youtu.be/FvW6Zfc-M6o) - [sesion en vivo]()
+* Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf]() - [video](https://youtu.be/PTyZDT2oLBA) - [sesion en vivo]()
+* Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - - [pdf]() - [video](https://youtu.be/N-hm2OM9eyQ) - [sesion en vivo]()
 
 ### Charla de Sponsor
 
