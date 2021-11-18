@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this Conference proceedings as shown."
+authors:
+- family-names: "Bellini Saibene"
+  given-names: "Yanina Noemí"
+  orcid: "https://orcid.org/0000-0002-4522-7466"
+- family-names: "Quiroga"
+  given-names: "Riva"
+  orcid: "" 
+- family-names: "D'Andrea."
+  given-names: "Florencia"
+  orcid: ""
+- family-names: "da Silva"
+  given-names: "Natalia"
+  orcid: "" 
+title: "Actas de LatinR 2021"
+year: 2021
+issn: "2618-3196"
+url: "https://github.com/LatinR/presentaciones-LatinR2021"
