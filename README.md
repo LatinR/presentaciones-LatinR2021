@@ -28,14 +28,14 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 ### Desarrollo de paquetes
 
 * Divide y vencerás: de polAr al 'polArverse' - Juan Pablo Ruiz Nicolini - [pdf]() - [video]() - [sesion en vivo]()
-* Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - - [pdf]() - [video]() - [sesion en vivo]()
+* Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_16.pdf) - [video]() - [sesion en vivo]()
 * The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot - - [pdf]() - [video]() - [sesion en vivo]()
 * speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay - - [pdf]() - [video]() - [sesion en vivo]()
 
 ### Paquetes, modelos y aplicaciones en ciencias
 
-* AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya - - [pdf]() - [video]() - [sesion en vivo]()
-* Análisis de la Red de Investigadores del IESTA - - [pdf]() - [video]() - [sesion en vivo]()
+* AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_12.pdf) - [video]() - [sesion en vivo]()
+* Análisis de la Red de Investigadores del IESTA - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_22.pdf) - [video]() - [sesion en vivo]()
 * Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales - - [pdf]() - [video]() - [sesion en vivo]()
 * Elaboración de redes analíticas interactivas con el paquete netCoin de R - - [pdf]() - [video]() - [sesion en vivo]()
 * Retos y R en conteos rápidos electorales - - [pdf]() - [video]() - [sesion en vivo]()
@@ -45,14 +45,14 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### Aplicaciones en salud pública
 
-* Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - - [pdf]() - [video](https://youtu.be/apiu01iYeL4) - [sesion en vivo]()
+* Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_13.pdf) - [video](https://youtu.be/apiu01iYeL4) - [sesion en vivo]()
 * Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf]() - [video](https://youtu.be/y6kcXVoFZ1k) - [sesion en vivo]()
 * ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - - [pdf]() - [video](https://youtu.be/y77nz9XBlXc) - [sesion en vivo]()
 * Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - - [pdf]() - [video](https://youtu.be/EDwLrPcxUFY) - [sesion en vivo]()
 
 ### Enseñanza de R
 
-* Scaling feedback using learnr and gradethis in a introductory R course - - [pdf]() - [video](https://youtu.be/7v7XPtizdzU) - [sesion en vivo]()
+* Scaling feedback using learnr and gradethis in a introductory R course - Beatriz Milz y Fernando Correa- [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_15.pdf) - [video](https://youtu.be/7v7XPtizdzU) - [sesion en vivo]()
 * Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - - [pdf]() - [video](https://youtu.be/G2Hwe7XcT_4) - [sesion en vivo]()
 * Karel la robot enseña R: un paquete para la enseñanza de programación - - [pdf]() - [video](https://youtu.be/sZze6Nl3bg8) - [sesion en vivo]()
 * Un conjunto de paquetes para generar tutoriales interactivos para enseñar R - - [pdf]() - [video](https://youtu.be/omU0uiuu1vE) - [sesion en vivo]()
@@ -103,7 +103,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * agromet: un paquete para el análisis de datos meteorológicos - - [pdf]() - [video](https://youtu.be/M8ALCz62B4U) - [sesion en vivo]()
 * Rocc: gestão e análise de dados de ocorrências de espécies - - [pdf]() - [video](https://youtu.be/y2Y15ri78Mk) - [sesion en vivo]()
 * Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia - - [pdf]() - [video](https://youtu.be/FvW6Zfc-M6o) - [sesion en vivo]()
-* Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf]() - [video](https://youtu.be/PTyZDT2oLBA) - [sesion en vivo]()
+* Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_14.pdf) - [video](https://youtu.be/PTyZDT2oLBA) - [sesion en vivo]()
 * Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - - [pdf]() - [video](https://youtu.be/N-hm2OM9eyQ) - [sesion en vivo]()
 
 ### Charla de Sponsor
