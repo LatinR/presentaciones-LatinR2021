@@ -30,30 +30,30 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Divide y vencerás: de polAr al 'polArverse' - _Juan Pablo Ruiz Nicolini_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_11.pdf) - [video]() - [sesion en vivo]()
 * Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_16.pdf) - [video]() - [sesion en vivo]()
 * The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot - _Juan Cruz Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_24.pdf) - [video]() - [sesion en vivo]()
-* speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay - - [pdf]() - [video]() - [sesion en vivo]()
+* speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay - _Elina Gómez , Nicolás Schmidt_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_35.pdf) - [video]() - [sesion en vivo]()
 
 ### Paquetes, modelos y aplicaciones en ciencias
 
 * AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya - _Elina Gómez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_12.pdf) - [video]() - [sesion en vivo]()
 * Análisis de la Red de Investigadores del IESTA - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_22.pdf) - [video]() - [sesion en vivo]()
 * Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales - - [pdf]() - [video]() - [sesion en vivo]()
-* Elaboración de redes analíticas interactivas con el paquete netCoin de R - - [pdf]() - [video]() - [sesion en vivo]()
-* Retos y R en conteos rápidos electorales - - [pdf]() - [video]() - [sesion en vivo]()
+* Elaboración de redes analíticas interactivas con el paquete netCoin de R - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_36.pdf) - [video]() - [sesion en vivo]()
+* Retos y R en conteos rápidos electorales - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_39.pdf) - [video]() - [sesion en vivo]()
 * Análisis del tipo de consumo cultural según nivel socioeconómico de los beneficiarios del programa Pase Cultural - _Jonathan A. Modernel, Magdalena Cornejo_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_54.pdf) - [video]() - [sesion en vivo]()
 * Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional - - [pdf]() - [video]() - [sesion en vivo]()
-* Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny - - [pdf]() - [video]() - [sesion en vivo]()
+* Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_34.pdf) - [video]() - [sesion en vivo]()
 
 ### Aplicaciones en salud pública
 
 * Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - _Alejandra Tapia Silva_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_13.pdf) - [video](https://youtu.be/apiu01iYeL4) - [sesion en vivo]()
 * Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_48.pdf) - [video](https://youtu.be/y6kcXVoFZ1k) - [sesion en vivo]()
 * ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - - [pdf]() - [video](https://youtu.be/y77nz9XBlXc) - [sesion en vivo]()
-* Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - - [pdf]() - [video](https://youtu.be/EDwLrPcxUFY) - [sesion en vivo]()
+* Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - _Octavio Nicolas Bramajo_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_33.pdf) - [video](https://youtu.be/EDwLrPcxUFY) - [sesion en vivo]()
 
 ### Enseñanza de R
 
 * Scaling feedback using learnr and gradethis in a introductory R course - _Beatriz Milz y Fernando Correa_- [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_15.pdf) - [video](https://youtu.be/7v7XPtizdzU) - [sesion en vivo]()
-* Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - - [pdf]() - [video](https://youtu.be/G2Hwe7XcT_4) - [sesion en vivo]()
+* Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - _Lucía Rodríguez Planes_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_37.pdf) - [video](https://youtu.be/G2Hwe7XcT_4) - [sesion en vivo]()
 * Karel la robot enseña R: un paquete para la enseñanza de programación - _Marcos Prunello_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_45.pdf) - [video](https://youtu.be/sZze6Nl3bg8) - [sesion en vivo]()
 * Un conjunto de paquetes para generar tutoriales interactivos para enseñar R - _Yanina Bellini Saibene_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_53.pdf) - [video](https://youtu.be/omU0uiuu1vE) - [sesion en vivo]()
 
@@ -65,7 +65,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 ### Investigación y comunicación de resultados
 
 * Tablas reproducibles, presentables y con formato numérico local con gtsummary - _Eva Retamal Riquelme_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_56.pdf) - [video](https://youtu.be/6QTrzd2Wxrs) - [sesion en vivo]()
-* Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos - - [pdf]() - [video](https://youtu.be/tLDix5tBPHE) - [sesion en vivo]()
+* Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_29.pdf) - [video](https://youtu.be/tLDix5tBPHE) - [sesion en vivo]()
 * Un viaje a la ecología del movimiento a través de la minería de texto - _Rocío Joo, Simona Picardi, Matthew E. Boone, Thomas A. Clay, Samantha C. Patrick, Vilma S. Romero-Romero, Mathieu Basille_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_49.pdf) - [video](https://youtu.be/nUlmL2eEUII) - [sesion en vivo]()
 
 ### Datos espaciales
@@ -91,10 +91,10 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 ### Desarrollo de paquetes y modelos
 
 * missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - - [pdf]() - [video](https://youtu.be/C3lhkGkarp0) - [sesion en vivo]()
-* QR: un paquete para la factorización QR sin rotación - - [pdf]() - [video](https://youtu.be/l4JpN9UyA0Y) - [sesion en vivo]()
+* QR: un paquete para la factorización QR sin rotación - _Juan Claramunt González_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_32.pdf) - [video](https://youtu.be/l4JpN9UyA0Y) - [sesion en vivo]()
 * Estimación de un modelo computacional mediante computación Bayesiana Aproximada - - [pdf]() - [video](https://youtu.be/fFXMNv5Gg-k) - [sesion en vivo]()
 * Feature and variable selection in complex data classification - - [pdf]() - [video](https://youtu.be/qSQoUrYDLbE) - [sesion en vivo]()
-* Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo - - [pdf]() - [video](https://youtu.be/CCUSaaI6ZJw) - [sesion en vivo]()
+* Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo -_Martin Rodriguez Nuñez, Juan Cruz Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_23.pdf) - [video](https://youtu.be/CCUSaaI6ZJw) - [sesion en vivo]()
 * Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_20.pdf) - [video](https://youtu.be/iUKOp65SVCw) - [sesion en vivo]()
 * Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - - [pdf]() - [video](https://youtu.be/_7K6oIl-7Io) - [sesion en vivo]()
 
