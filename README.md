@@ -46,7 +46,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 ### Aplicaciones en salud pública
 
 * Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_13.pdf) - [video](https://youtu.be/apiu01iYeL4) - [sesion en vivo]()
-* Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf]() - [video](https://youtu.be/y6kcXVoFZ1k) - [sesion en vivo]()
+* Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_48.pdf) - [video](https://youtu.be/y6kcXVoFZ1k) - [sesion en vivo]()
 * ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - - [pdf]() - [video](https://youtu.be/y77nz9XBlXc) - [sesion en vivo]()
 * Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - - [pdf]() - [video](https://youtu.be/EDwLrPcxUFY) - [sesion en vivo]()
 
@@ -54,25 +54,24 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 * Scaling feedback using learnr and gradethis in a introductory R course - Beatriz Milz y Fernando Correa- [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_15.pdf) - [video](https://youtu.be/7v7XPtizdzU) - [sesion en vivo]()
 * Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - - [pdf]() - [video](https://youtu.be/G2Hwe7XcT_4) - [sesion en vivo]()
-* Karel la robot enseña R: un paquete para la enseñanza de programación - - [pdf]() - [video](https://youtu.be/sZze6Nl3bg8) - [sesion en vivo]()
+* Karel la robot enseña R: un paquete para la enseñanza de programación - Marcos Prunello - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_45.pdf) - [video](https://youtu.be/sZze6Nl3bg8) - [sesion en vivo]()
 * Un conjunto de paquetes para generar tutoriales interactivos para enseñar R - Yanina Bellini Saibene - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_53.pdf) - [video](https://youtu.be/omU0uiuu1vE) - [sesion en vivo]()
 
 ### Comunidad de R
 
-* Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad - Claudia Alejandra Huaylla, Paola Corrales, Andrea Gómez Vargas, Joselyn
-Chávez, Denisse Fierro Arcos, Virginia García Alonso - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_50.pdf) - [video](https://youtu.be/O31-2LHZDoM) - [sesion en vivo]()
-* Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar - - [pdf]() - [video](https://youtu.be/MN2R0GxWJeE) - [sesion en vivo]()
+* Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad - Claudia Alejandra Huaylla, Paola Corrales, Andrea Gómez Vargas, Joselyn Chávez, Denisse Fierro Arcos, Virginia García Alonso - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_50.pdf) - [video](https://youtu.be/O31-2LHZDoM) - [sesion en vivo]()
+* Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar - Denisse Fierro Arcos, Danisse María Carrascal Polo, Linda Jazmín Cabrera Orellana, Mary Jane Rivero Morales - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_43.pdf) - [video](https://youtu.be/MN2R0GxWJeE) - [sesion en vivo]()
 
 ### Investigación y comunicación de resultados
 
 * Tablas reproducibles, presentables y con formato numérico local con gtsummary - Eva Retamal Riquelme - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_56.pdf) - [video](https://youtu.be/6QTrzd2Wxrs) - [sesion en vivo]()
 * Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos - - [pdf]() - [video](https://youtu.be/tLDix5tBPHE) - [sesion en vivo]()
-* Un viaje a la ecología del movimiento a través de la minería de texto - - [pdf]() - [video](https://youtu.be/nUlmL2eEUII) - [sesion en vivo]()
+* Un viaje a la ecología del movimiento a través de la minería de texto -Rocío Joo, Simona Picardi, Matthew E. Boone, Thomas A. Clay, Samantha C. Patrick, Vilma S. Romero-Romero, Mathieu Basille - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_49.pdf) - [video](https://youtu.be/nUlmL2eEUII) - [sesion en vivo]()
 
 ### Datos espaciales
 
 * Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información? - - [pdf]() - [video](https://youtu.be/8qltR0p_Czg) - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
-* Un cuento digital desde R: cómo crear un relato situado con Leaflet - - [pdf]() - [video](https://youtu.be/QM0WwPdjK2w) - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
+* Un cuento digital desde R: cómo crear un relato situado con Leaflet - Natalia Morandeira - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_42.pdf) - [video](https://youtu.be/QM0WwPdjK2w) - [sesion en vivo](https://youtu.be/Iu50SnrTW8A)
 
 ### Periodismo de datos, datos abiertos y visualización
 
@@ -84,10 +83,9 @@ Chávez, Denisse Fierro Arcos, Virginia García Alonso - [pdf](https://github.co
 ### R en producción, computación y flujos de trabajo
 
 * R en producción: aprendizajes, retos y mejores prácticas - Ángel Escalante , Nancy Morales - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_5.pdf) - [video](https://youtu.be/OLDgTVa2vrw) - [sesion en vivo]()
-* Analogsea: using R for big data analytics - - [pdf]() - [video](https://youtu.be/ZBOaPuhVzqg) - [sesion en vivo]()
+* Analogsea: using R for big data analytics - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_46.pdf) - [video](https://youtu.be/ZBOaPuhVzqg) - [sesion en vivo]()
 * IBM Cloud Functions com R - - [pdf]() - [video](https://youtu.be/eIww0bf4b9g) - [sesion en vivo]()
-* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - Luis Verde - [pdf](Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades
-del sistema operativo) - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo]()
+* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - - [pdf]() - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo]()
 * Uso de R como front-end en un datawarehouse de gestión académica universitaria - Daniel Alessandrini, Pablo Martínez, Óscar Montañés, Juan Manuel Serralta - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_10.pdf) - [video](https://youtu.be/GSBQbZk_Zrw) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y modelos
@@ -106,7 +104,7 @@ del sistema operativo) - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo
 * Rocc: gestão e análise de dados de ocorrências de espécies - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_51.pdf) - [video](https://youtu.be/y2Y15ri78Mk) - [sesion en vivo]()
 * Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia - - [pdf]() - [video](https://youtu.be/FvW6Zfc-M6o) - [sesion en vivo]()
 * Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_14.pdf) - [video](https://youtu.be/PTyZDT2oLBA) - [sesion en vivo]()
-* Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - - [pdf]() - [video](https://youtu.be/N-hm2OM9eyQ) - [sesion en vivo]()
+* Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - Julia Marchetti, Nicolas Palopoli, Alexander Miguel Monzon, Diego Javier Zea, Maria Silvina Fornasari, Silvio C.E. Tosatto and Gustavo Parisi. - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_41.pdf) - [video](https://youtu.be/N-hm2OM9eyQ) - [sesion en vivo]()
 
 ### Charla de Sponsor
 
