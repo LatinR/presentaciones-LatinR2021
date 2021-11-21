@@ -27,7 +27,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 ## Contribuciones
 ### Desarrollo de paquetes
 
-* Divide y vencerás: de polAr al 'polArverse' - Juan Pablo Ruiz Nicolini - [pdf]() - [video]() - [sesion en vivo]()
+* Divide y vencerás: de polAr al 'polArverse' - Juan Pablo Ruiz Nicolini - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_11.pdf) - [video]() - [sesion en vivo]()
 * Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_16.pdf) - [video]() - [sesion en vivo]()
 * The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot - - [pdf]() - [video]() - [sesion en vivo]()
 * speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay - - [pdf]() - [video]() - [sesion en vivo]()
@@ -86,7 +86,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Analogsea: using R for big data analytics - - [pdf]() - [video](https://youtu.be/ZBOaPuhVzqg) - [sesion en vivo]()
 * IBM Cloud Functions com R - - [pdf]() - [video](https://youtu.be/eIww0bf4b9g) - [sesion en vivo]()
 * Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - - [pdf]() - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo]()
-* Uso de R como front-end en un datawarehouse de gestión académica universitaria - - [pdf]() - [video](https://youtu.be/GSBQbZk_Zrw) - [sesion en vivo]()
+* Uso de R como front-end en un datawarehouse de gestión académica universitaria - Daniel Alessandrini, Pablo Martínez, Óscar Montañés, Juan Manuel Serralta - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_10.pdf) - [video](https://youtu.be/GSBQbZk_Zrw) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y modelos
 
@@ -95,7 +95,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Estimación de un modelo computacional mediante computación Bayesiana Aproximada - - [pdf]() - [video](https://youtu.be/fFXMNv5Gg-k) - [sesion en vivo]()
 * Feature and variable selection in complex data classification - - [pdf]() - [video](https://youtu.be/qSQoUrYDLbE) - [sesion en vivo]()
 * Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo - - [pdf]() - [video](https://youtu.be/CCUSaaI6ZJw) - [sesion en vivo]()
-* Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf]() - [video](https://youtu.be/iUKOp65SVCw) - [sesion en vivo]()
+* Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_20.pdf) - [video](https://youtu.be/iUKOp65SVCw) - [sesion en vivo]()
 * Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - - [pdf]() - [video](https://youtu.be/_7K6oIl-7Io) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y aplicaciones en ciencia
