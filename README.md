@@ -90,13 +90,13 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 ### Desarrollo de paquetes y modelos
 
-* missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - - [pdf]() - [video](https://youtu.be/C3lhkGkarp0) - [sesion en vivo]()
+* missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - _Julia Inés Fernández , Diego Marfetán Molina , José Alberto Pagura , Marta Beatriz Quaglino_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_7.pdf) - [video](https://youtu.be/C3lhkGkarp0) - [sesion en vivo]()
 * QR: un paquete para la factorización QR sin rotación - _Juan Claramunt González_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_32.pdf) - [video](https://youtu.be/l4JpN9UyA0Y) - [sesion en vivo]()
-* Estimación de un modelo computacional mediante computación Bayesiana Aproximada - - [pdf]() - [video](https://youtu.be/fFXMNv5Gg-k) - [sesion en vivo]()
+* Estimación de un modelo computacional mediante computación Bayesiana Aproximada - _Juan Ignacio Baccino Costa , Mauro Loprete , Alvaro Valiño , Daniel Ciganda_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_8.pdf) - [video](https://youtu.be/fFXMNv5Gg-k) - [sesion en vivo]()
 * Feature and variable selection in complex data classification - - [pdf]() - [video](https://youtu.be/qSQoUrYDLbE) - [sesion en vivo]()
 * Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo -_Martin Rodriguez Nuñez, Juan Cruz Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_23.pdf) - [video](https://youtu.be/CCUSaaI6ZJw) - [sesion en vivo]()
 * Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_20.pdf) - [video](https://youtu.be/iUKOp65SVCw) - [sesion en vivo]()
-* Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - - [pdf]() - [video](https://youtu.be/_7K6oIl-7Io) - [sesion en vivo]()
+* Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - _Gonzalo De armas , Mauro Loprete , Ramón Álvarez-Vaz_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_6.pdf) - [video](https://youtu.be/_7K6oIl-7Io) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y aplicaciones en ciencia
 
