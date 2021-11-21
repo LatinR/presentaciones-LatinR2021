@@ -47,7 +47,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 * Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - _Alejandra Tapia Silva_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_13.pdf) - [video](https://youtu.be/apiu01iYeL4) - [sesion en vivo]()
 * Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_48.pdf) - [video](https://youtu.be/y6kcXVoFZ1k) - [sesion en vivo]()
-* ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - - [pdf]() - [video](https://youtu.be/y77nz9XBlXc) - [sesion en vivo]()
+* ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - _Paulo Villarroel Tapia_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_61.pdf) - [video](https://youtu.be/y77nz9XBlXc) - [sesion en vivo]()
 * Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - _Octavio Nicolas Bramajo_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_33.pdf) - [video](https://youtu.be/EDwLrPcxUFY) - [sesion en vivo]()
 
 ### Enseñanza de R
@@ -84,8 +84,8 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 * R en producción: aprendizajes, retos y mejores prácticas - _Ángel Escalante , Nancy Morales_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_5.pdf) - [video](https://youtu.be/OLDgTVa2vrw) - [sesion en vivo]()
 * Analogsea: using R for big data analytics - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_46.pdf) - [video](https://youtu.be/ZBOaPuhVzqg) - [sesion en vivo]()
-* IBM Cloud Functions com R - - [pdf]() - [video](https://youtu.be/eIww0bf4b9g) - [sesion en vivo]()
-* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - - [pdf]() - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo]()
+* IBM Cloud Functions com R - _Thiago Pires_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_59.pdf) - [video](https://youtu.be/eIww0bf4b9g) - [sesion en vivo]()
+* Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - _Luis Verde_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_55.pdf) - [video](https://youtu.be/jQRQ31jCi24) - [sesion en vivo]()
 * Uso de R como front-end en un datawarehouse de gestión académica universitaria - _Daniel Alessandrini, Pablo Martínez, Óscar Montañés, Juan Manuel Serralta_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_10.pdf) - [video](https://youtu.be/GSBQbZk_Zrw) - [sesion en vivo]()
 
 ### Desarrollo de paquetes y modelos
@@ -93,7 +93,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - _Julia Inés Fernández , Diego Marfetán Molina , José Alberto Pagura , Marta Beatriz Quaglino_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_7.pdf) - [video](https://youtu.be/C3lhkGkarp0) - [sesion en vivo]()
 * QR: un paquete para la factorización QR sin rotación - _Juan Claramunt González_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_32.pdf) - [video](https://youtu.be/l4JpN9UyA0Y) - [sesion en vivo]()
 * Estimación de un modelo computacional mediante computación Bayesiana Aproximada - _Juan Ignacio Baccino Costa , Mauro Loprete , Alvaro Valiño , Daniel Ciganda_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_8.pdf) - [video](https://youtu.be/fFXMNv5Gg-k) - [sesion en vivo]()
-* Feature and variable selection in complex data classification - - [pdf]() - [video](https://youtu.be/qSQoUrYDLbE) - [sesion en vivo]()
+* Feature and variable selection in complex data classification - _Manuel Oviedo de la Fuente, Manuel Febrero Bande_  - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_63.pdf) - [video](https://youtu.be/qSQoUrYDLbE) - [sesion en vivo]()
 * Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo -_Martin Rodriguez Nuñez, Juan Cruz Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_23.pdf) - [video](https://youtu.be/CCUSaaI6ZJw) - [sesion en vivo]()
 * Como implementar algunos modelos de imputación múltiple para datos de panel - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_20.pdf) - [video](https://youtu.be/iUKOp65SVCw) - [sesion en vivo]()
 * Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - _Gonzalo De armas , Mauro Loprete , Ramón Álvarez-Vaz_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_6.pdf) - [video](https://youtu.be/_7K6oIl-7Io) - [sesion en vivo]()
@@ -102,7 +102,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 
 * agromet: un paquete para el análisis de datos meteorológicos - _Natalia Gattinoni, Paola Corrales, Elio Campitelli, Yanina Bellini y Gabriel Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_26.pdf) - [video](https://youtu.be/M8ALCz62B4U) - [sesion en vivo]()
 * Rocc: gestão e análise de dados de ocorrências de espécies - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_51.pdf) - [video](https://youtu.be/y2Y15ri78Mk) - [sesion en vivo]()
-* Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia - - [pdf]() - [video](https://youtu.be/FvW6Zfc-M6o) - [sesion en vivo]()
+* Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_60.pdf) - [video](https://youtu.be/FvW6Zfc-M6o) - [sesion en vivo]()
 * Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_14.pdf) - [video](https://youtu.be/PTyZDT2oLBA) - [sesion en vivo]()
 * Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales - _Julia Marchetti, Nicolas Palopoli, Alexander Miguel Monzon, Diego Javier Zea, Maria Silvina Fornasari, Silvio C.E. Tosatto and Gustavo Parisi_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_41.pdf) - [video](https://youtu.be/N-hm2OM9eyQ) - [sesion en vivo]()
 
