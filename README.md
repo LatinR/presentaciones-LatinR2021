@@ -28,20 +28,20 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 ### Desarrollo de paquetes
 
 * Divide y vencerás: de polAr al 'polArverse' - _Juan Pablo Ruiz Nicolini_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_11.pdf) - [video]() - [sesion en vivo]()
-* Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_16.pdf) - [video]() - [sesion en vivo]()
+* Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - _Ricardo Pizarro and Klaus Lehmann_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_16.pdf) - [video]() - [sesion en vivo]()
 * The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot - _Juan Cruz Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_24.pdf) - [video]() - [sesion en vivo]()
 * speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay - _Elina Gómez , Nicolás Schmidt_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_35.pdf) - [video]() - [sesion en vivo]()
 
 ### Paquetes, modelos y aplicaciones en ciencias
 
 * AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya - _Elina Gómez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_12.pdf) - [video]() - [sesion en vivo]()
-* Análisis de la Red de Investigadores del IESTA - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_22.pdf) - [video]() - [sesion en vivo]()
-* Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales - - [pdf]() - [video]() - [sesion en vivo]()
-* Elaboración de redes analíticas interactivas con el paquete netCoin de R - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_36.pdf) - [video]() - [sesion en vivo]()
-* Retos y R en conteos rápidos electorales - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_39.pdf) - [video]() - [sesion en vivo]()
+* Análisis de la Red de Investigadores del IESTA - _Pablo Mones and Ramón Álvarez-Vaz_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_22.pdf) - [video]() - [sesion en vivo]()
+* Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales - _Enrique García-Tejeda_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_25.pdf) - [video]() - [sesion en vivo]()
+* Elaboración de redes analíticas interactivas con el paquete netCoin de R - _	Modesto Escobar and Cristina Calvo López_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_36.pdf) - [video]() - [sesion en vivo]()
+* Retos y R en conteos rápidos electorales - _Maria Teresa Ortiz Mancera, Michelle Anzarut and Luis Felipe González Pérez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_39.pdf) - [video]() - [sesion en vivo]()
 * Análisis del tipo de consumo cultural según nivel socioeconómico de los beneficiarios del programa Pase Cultural - _Jonathan A. Modernel, Magdalena Cornejo_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_54.pdf) - [video]() - [sesion en vivo]()
-* Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional - - [pdf]() - [video]() - [sesion en vivo]()
-* Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny - - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_34.pdf) - [video]() - [sesion en vivo]()
+* Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional - _Fernando Barbalho, Tiago Pereira, Lucas Leite, Jordão Gonçalves_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_31.pdf) - [video]() - [sesion en vivo]()
+* Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny - _Andrea Cardoso, Matías Muñoz Wolf, Juan José Lagomarsino, Lucía González-Madina, Mathias Bourel, Juan Pablo Pacheco, Rafael Terra, Gustavo Mendez, Néstor Mazzeo, Gonzalo Perera and Carolina Crisci_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_34.pdf) - [video]() - [sesion en vivo]()
 
 ### Aplicaciones en salud pública
 
