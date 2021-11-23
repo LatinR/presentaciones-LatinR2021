@@ -83,7 +83,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Alavancando o poder do RMarkdown com as linguagens da Web e D3.js para produzir histórias de dados envolventes sobre finanças públicas - _Tiago Pereira, Fernando Barbalho, Jordao Goncalves and Lucas Leite_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_58.pdf) - [video](https://youtu.be/898kfaJhv5Q) 
 * Collect and use open access World Bank data to know your country - _Bruno Thiago Tomio_ - [video](https://youtu.be/bRzNlxZbi0o)
 
-### R en producción, computación y flujos de trabajo - [sesion en vivo]()
+### R en producción, computación y flujos de trabajo - [sesion en vivo](https://youtu.be/Kgrjsk4XbYE?t=4526)
 
 * R en producción: aprendizajes, retos y mejores prácticas - _Ángel Escalante , Nancy Morales_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_5.pdf) - [video](https://youtu.be/OLDgTVa2vrw) 
 * Analogsea: using R for big data analytics - _Mauricio Vargas, Scott Chamberlain, Hadley Wickham and Bob Rudis_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_46.pdf) - [video](https://youtu.be/ZBOaPuhVzqg)
@@ -91,7 +91,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo - _Luis Verde_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_55.pdf) - [video](https://youtu.be/jQRQ31jCi24)
 * Uso de R como front-end en un datawarehouse de gestión académica universitaria - _Daniel Alessandrini, Pablo Martínez, Óscar Montañés, Juan Manuel Serralta_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_10.pdf) - [video](https://youtu.be/GSBQbZk_Zrw)
 
-### Desarrollo de paquetes y modelos - [sesion en vivo]()
+### Desarrollo de paquetes y modelos - [sesion en vivo](https://youtu.be/Kgrjsk4XbYE?t=7535)
 
 * missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes - _Julia Inés Fernández , Diego Marfetán Molina , José Alberto Pagura , Marta Beatriz Quaglino_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_7.pdf) - [video](https://youtu.be/C3lhkGkarp0) 
 * QR: un paquete para la factorización QR sin rotación - _Juan Claramunt González_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_32.pdf) - [video](https://youtu.be/l4JpN9UyA0Y)
@@ -101,7 +101,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Como implementar algunos modelos de imputación múltiple para datos de panel - _	Ramón Álvarez-Vaz, Diana Del-Callejo-Canal, Margarita Edith Canal-Martínez, Elena Vernazza and Alar Urruticoechea_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_20.pdf) - [video](https://youtu.be/iUKOp65SVCw)
 * Años potenciales de vida perdidos por siniestros de tránsito en Uruguay - _Gonzalo De armas , Mauro Loprete , Ramón Álvarez-Vaz_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_6.pdf) - [video](https://youtu.be/_7K6oIl-7Io)
 
-### Desarrollo de paquetes y aplicaciones en ciencia - [sesion en vivo]()
+### Desarrollo de paquetes y aplicaciones en ciencia - [sesion en vivo](https://youtu.be/Kgrjsk4XbYE?t=11711)
 
 * agromet: un paquete para el análisis de datos meteorológicos - _Natalia Gattinoni, Paola Corrales, Elio Campitelli, Yanina Bellini y Gabriel Rodriguez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_26.pdf) - [video](https://youtu.be/M8ALCz62B4U)
 * Rocc: gestão e análise de dados de ocorrências de espécies - _Sara Mortara and Andrea Sánchez-Tapia_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_51.pdf) - [video](https://youtu.be/y2Y15ri78Mk)
