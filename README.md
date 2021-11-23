@@ -25,6 +25,8 @@
 _with subtitles in English and Spanish, con subtítulos en Inglés y en español_
 
 ## Contribuciones
+#### ISSN: 2618-3196.
+
 ### Desarrollo de paquetes - [sesion en vivo](https://youtu.be/BeUPj24L9WI?t=1026)
 
 * Divide y vencerás: de polAr al 'polArverse' - _Juan Pablo Ruiz Nicolini_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_11.pdf) - [video](https://youtu.be/5Cq8Kz4SYdY) 
