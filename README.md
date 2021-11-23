@@ -45,26 +45,26 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny - _Andrea Cardoso, Matías Muñoz Wolf, Juan José Lagomarsino, Lucía González-Madina, Mathias Bourel, Juan Pablo Pacheco, Rafael Terra, Gustavo Mendez, Néstor Mazzeo, Gonzalo Perera and Carolina Crisci_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_34.pdf) - [video](https://youtu.be/0L09y36yf08)
 
 
-### Aplicaciones en salud pública - [sesion en vivo]()
+### Aplicaciones en salud pública - [sesion en vivo](https://youtu.be/4TCNocxRtwo)
 
 * Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma - _Alejandra Tapia Silva_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_13.pdf) - [video](https://youtu.be/apiu01iYeL4) 
 * Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos - _Sabrina Laura López, Carolina Mengoni Goñalons, María Cristina Nanton and Manuel Rodríguez Tablado_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_48.pdf) - [video](https://youtu.be/y6kcXVoFZ1k)
 * ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos? - _Paulo Villarroel Tapia_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_61.pdf) - [video](https://youtu.be/y77nz9XBlXc)
 * Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18 - _Octavio Nicolas Bramajo_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_33.pdf) - [video](https://youtu.be/EDwLrPcxUFY)
 
-### Enseñanza de R - [sesion en vivo]()
+### Enseñanza de R - [sesion en vivo](https://youtu.be/4TCNocxRtwo?t=2598)
 
 * Scaling feedback using learnr and gradethis in a introductory R course - _Beatriz Milz y Fernando Correa_- [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_15.pdf) - [video](https://youtu.be/7v7XPtizdzU)
 * Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios - _Lucía Rodríguez Planes_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_37.pdf) - [video](https://youtu.be/G2Hwe7XcT_4)
 * Karel la robot enseña R: un paquete para la enseñanza de programación - _Marcos Prunello_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_45.pdf) - [video](https://youtu.be/sZze6Nl3bg8) 
 * Un conjunto de paquetes para generar tutoriales interactivos para enseñar R - _Yanina Bellini Saibene_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_53.pdf) - [video](https://youtu.be/omU0uiuu1vE)
 
-### Comunidad de R - [sesion en vivo]()
+### Comunidad de R - [sesion en vivo](https://youtu.be/4TCNocxRtwo?t=4648)
 
 * Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad - _Claudia Alejandra Huaylla, Paola Corrales, Andrea Gómez Vargas, Joselyn Chávez, Denisse Fierro Arcos, Virginia García Alonso_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_50.pdf) - [video](https://youtu.be/O31-2LHZDoM)
 * Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar - _Denisse Fierro Arcos, Danisse María Carrascal Polo, Linda Jazmín Cabrera Orellana, Mary Jane Rivero Morales_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_43.pdf) - [video](https://youtu.be/MN2R0GxWJeE)
 
-### Investigación y comunicación de resultados - [sesion en vivo]()
+### Investigación y comunicación de resultados - [sesion en vivo](https://youtu.be/4TCNocxRtwo?t=6397)
 
 * Tablas reproducibles, presentables y con formato numérico local con gtsummary - _Eva Retamal Riquelme_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_56.pdf) - [video](https://youtu.be/6QTrzd2Wxrs) 
 * Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos - _Cristina Contreras, Sara Acevedo, Maria Jesús Melej, Edouard Acuña, Carolina Giraldo, Carlos Ávila and Carlos Bonilla_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_29.pdf) - [video](https://youtu.be/tLDix5tBPHE)
