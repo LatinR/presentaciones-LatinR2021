@@ -25,7 +25,7 @@
 _with subtitles in English and Spanish, con subtítulos en Inglés y en español_
 
 ## Contribuciones
-### Desarrollo de paquetes - [sesion en vivo]()
+### Desarrollo de paquetes - [sesion en vivo](https://youtu.be/BeUPj24L9WI?t=1026)
 
 * Divide y vencerás: de polAr al 'polArverse' - _Juan Pablo Ruiz Nicolini_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_11.pdf) - [video](https://youtu.be/5Cq8Kz4SYdY) 
 * Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares - _Ricardo Pizarro and Klaus Lehmann_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_16.pdf) - [video](https://youtu.be/ch3bg2bhOmc)
@@ -33,7 +33,7 @@ _with subtitles in English and Spanish, con subtítulos en Inglés y en español
 * speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay - _Elina Gómez , Nicolás Schmidt_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_35.pdf) - [video](https://youtu.be/Qn5MgyS55wE)
 
 
-### Paquetes, modelos y aplicaciones en ciencias - [sesion en vivo]()
+### Paquetes, modelos y aplicaciones en ciencias - [sesion en vivo](https://youtu.be/BeUPj24L9WI?t=3735)
 
 * AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya - _Elina Gómez_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_12.pdf) - [video](https://youtu.be/mquWWrM8eqo) 
 * Análisis de la Red de Investigadores del IESTA - _Pablo Mones and Ramón Álvarez-Vaz_ - [pdf](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/contribuciones/LatinR2021_paper_22.pdf) - [video](https://youtu.be/Sq0Ia8Ww4-I)
