@@ -3,6 +3,7 @@
 1. [Charlas invitadas](#Charlas)
 2. [Contribuciones](#Contribuciones)
 4. [Tutoriales](#Tutoriales)
+5. [Libro de Actas](#Libro de Actas)
 
 ## Charlas
 
@@ -167,3 +168,7 @@ Modelos de equações estruturais são um conjunto de técnicas usados para repr
 
 * [Material]()
 * [Video]()
+
+## Libro de Actas LatinR 2021
+
+El [libro de actas](https://github.com/LatinR/presentaciones-LatinR2021/blob/main/actas/Libro%20Actas%20R%202021_FINAL.pdf) presenta todos los trabajos contribuidos, aceptados y presentados durante la conferencia. Editoras: Yanina Bellini Saibene, Riva Quiroga y Natalia da Silva.
